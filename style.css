@@ -1,0 +1,49 @@
+body {
+  padding-top: 50px;  /* Move body of page below navbar. */
+  font-family: "Shadows Into Light Two", sans-serif;
+}
+
+.navbar {
+  height: 70px;
+  font-size: 1.8em;
+  padding-top: 10px;
+}
+
+.four>.well {
+  background-color: inherit;
+  font-family: "Amatic SC", serif;
+  font-size: 2.2em;
+}
+
+.one, .two, .three, .four {
+  height: 550px;
+  text-align: center;
+  font-size: 2em;
+  padding-top: 175px;
+}
+
+.one {
+  background-color: #1ee262;
+}
+
+.two {
+  background-color: #22d1e8;
+  height: 500px;
+}
+
+.three {
+  background-color: #1eba89;
+  font-size: 1.5em;
+}
+
+.four {
+  background-color: #1f85e8;
+  padding-top: 125px;
+}
+
+.footer {
+  height: 250px;
+  background-color: #1ee262;
+  padding-top: 80px;
+  text-align: center;
+}
